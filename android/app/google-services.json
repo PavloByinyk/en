@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465242039493",
+    "firebase_url": "https://ennote-213318.firebaseio.com",
+    "project_id": "ennote-213318",
+    "storage_bucket": "ennote-213318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465242039493:android:26e28c5951af391b",
+        "android_client_info": {
+          "package_name": "com.example.gottgried.en"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465242039493-81frtqqsvspk7q4qi6te3rckc86pkve7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gottgried.en",
+            "certificate_hash": "f05adf3af9f2710b5d8bd086c0e107c7cb4d3739"
+          }
+        },
+        {
+          "client_id": "465242039493-u2qgdobcogs7qhqi1492286ippg9ebvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqvrk5TotgcZ5eOZ2A_3jDCrjE2CY5dxQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465242039493-u2qgdobcogs7qhqi1492286ippg9ebvj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
